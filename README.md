@@ -5,7 +5,8 @@ Email id: shivam.tomar@sjsu.edu
 Student id: 015218203  
 
 ## Files
--
+- cmpe255_assignment1_data_cleaning.ipynb: jupyter notebook containing the assignment's python code
+- AB_NYC_2019.csv: Dataset csv file downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data  )
 
 ## Business Objective  
 Predict the prices of airbnb rentals in NYC.
@@ -14,7 +15,7 @@ Predict the prices of airbnb rentals in NYC.
 The dataset chosen for this assignment is the open dataset provided by Airbnb on the New York City Airbnb rentals in the year 2019.
 URL to the dataset: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data  
 
-## General Approch
+## Steps taken for cleaning the dataset and training the model
 This assignment applies Linear Regression on the selected features of airbnb NYC dataset to create a regression model for predicting the airbnb rental prices. Before applying Linear Regression, dataset has been preprocessed and cleaned to make it suitable for creating accurate regression model.  
 _Following steps were taken for preprocessing and cleaning dataset._  
 
